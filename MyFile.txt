@@ -1,0 +1,29 @@
+We can take advantages of cloud computing in many ways
+Just like you can save money, Rather than purchasing expensive systems and equipment for your business
+you can reduce your costs by using the resources of your cloud computing service provider
+You may be able to reduce your operating costs because: the cost of system upgrades, new hardware and software may be included in your contract.
+
+Cost Reduction
+It’s a basic financial principle that profit comes from making more money than you spend. Do you know what doesn’t come cheap? Just about everything related to computers. So when it comes to cloud computing advantages and disadvantages, this is at the top of the whole list for most businesses.
+Good servers will run you thousands of dollars just for the hardware. Then there’s the ongoing software and hardware maintenance.
+Cloud computing solves all of these problems for a business. The cloud provider takes on all of the hassles associated with infrastructure, maintenance and utility management for the servers.
+
+Security
+In spite of some high-profile cloud data breaches, there are numerous arguments for why cloud computing is more secure than in-house computing.
+Data held in the cloud is less subject to employee theft. It’s easier to steal information when you have physical access to the machine it’s stored on. Cloud computing puts some distance between your data and any potentially disgruntled employees.
+Rather than investing in an on-premises data warehouse, where you are also required to implement and maintain security protocols, the cloud provides enterprises with a simpler, less resource-intensive way to protect their data.
+Most cloud service providers emphasize cutting-edge security protocols, as well as compliance with data protection measures. This is becoming even more prevalent as the industry is moving toward implementing a shared liability system between data processors and controllers.eliability
+Cloud providers survive on redundancy. Your data isn’t just stored on a server. It’s stored across multiple servers.
+Depending on the provider, it might even be stored on servers in multiple locations. Just in case there’s a catastrophic failure at a given server farm.
+This means that no single hardware failure will hamstring your business. It also means that you can expect superb reliability in terms of accessing your data or services. 
+
+Improved Workplace Productivity
+One of the most impactful advantages of cloud computing is the increased productivity it delivers. Disjointed on-premises IT services and/or a resource-limited IT staff make for an inefficient and ineffective IT program and can have a profound impact on your employees’ ability to perform at their best.
+Cloud computing allows you to provide your employees with tools that give them the ability to do their best work without the interference of outdated legacy systems, effectively streamlining day-to-day operations. For example, cloud-based IT services are made available to your employees from any device, anywhere in the world.
+
+Always Up to Date
+Another of the important advantages of cloud computing is the strategic value added by working with technology that always remains on the cutting edge. Rather than getting bogged down by obsolete technology and becoming complacent with legacy systems, cloud systems are always up to date.
+
+Scalability and Flexibility
+One of the most dynamic advantages of cloud computing is the scalability/flexibility factor. Changes in locally based IT networks require considerable in-house development and testing. This makes for an upfront investment, plus an additional investment every time your needs increase, even if this increase is temporary. Companies often find themselves using unfit systems simply because the costs required to make a change is prohibitive.
+Cloud systems can be scaled up or down depending on your operational needs. For example, in the event of a once-a-year promotion that increases your needs dramatically for a few short weeks, your capacity could be increased to meet demand, then decreased to keep costs at a minimum.
